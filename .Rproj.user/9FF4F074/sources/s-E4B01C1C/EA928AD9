@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581522837665.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EA928AD9",
+    "lastKnownWriteTime" : 1581522698,
+    "last_content_update" : 1581522698,
+    "path" : "~/Documents/work/cryptoasset/twitter_data/scraping_twitter_data.R",
+    "project_path" : "scraping_twitter_data.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
