@@ -3,7 +3,7 @@
 ####--------------------------------------------------------------------####
 library(twitteR)
 library(here)
-# library(tidyverse)
+library(tidyverse)
 # library(lubridate)
 # library(plotly)
 # library(tidytext)
